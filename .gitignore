@@ -1,0 +1,9 @@
+# vscode
+.vscode/
+
+# npm
+node_modules/
+
+# other
+MEMO.md
+
