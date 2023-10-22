@@ -23,3 +23,13 @@ https://education.github.com
 - 最低でも 13 歳以上であること
 > https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student より
 
+
+## Github Education の特典
+
+
+
+# 登録方法
+## 学校のメールアドレスの追加
+
+## 
+
