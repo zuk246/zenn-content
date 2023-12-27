@@ -3,7 +3,7 @@ title: '今年私が勉強したこと'
 emoji: '🌇'
 type: 'idea' # tech: 技術記事 / idea: アイデア
 topics: ['勉強']
-published: true
+published: false
 ---
 
 こんにちは。
