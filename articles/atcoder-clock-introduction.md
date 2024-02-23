@@ -1,5 +1,5 @@
 ---
-title: 'タイマーでAtcoderの問題を提案するアプリ「Atcoder Clock」をリリースしました'
+title: 'タイマーが完了するとAtcoderの問題を提案するアプリを開発しました'
 emoji: '🎉'
 type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: ['atcoder', 'react', 'cloudflare']
