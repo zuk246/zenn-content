@@ -7,3 +7,5 @@ node_modules/
 # other
 MEMO.md
 
+# mac
+.DS_Store
