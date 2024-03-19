@@ -18,11 +18,11 @@ https://chromewebstore.google.com/detail/cclhgjnllleppaplaonmpdmdgngnodjf
 
 # 概要
 
-Zenn で過去にトレンドになったテック記事、アイデア記事、本を表示する拡張機能です。2024/03/07 からの[Zenn の RSS](https://zenn.dev/feed)で取得できるデータをランダムで表示します。正確には、今日のトレンド以外からランダムで 12 個選択します。
+Zenn で過去にトレンドになったテック記事、アイデア記事、本を表示する拡張機能です。[ここ](https://chromewebstore.google.com/detail/cclhgjnllleppaplaonmpdmdgngnodjf)からインストールできます。2024/03/07 からの[Zenn の RSS](https://zenn.dev/feed)で取得できるデータをランダムで表示します。正確には、今日のトレンド以外からランダムで 12 個選択します。
 
 ## RSS を使った理由
 
-Zenn には、[正式に公開されていない API](https://zenn.dev/manase/scraps/489f556f7ff15b) があります。`https://zenn.dev/api/**`を叩くと記事などを取得できますが、公式のドキュメントがなく、バージョンが変わってしまうと使えなくなってしまうことやフィードリーダーなどで RSS の方が多く叩かれている気がするので、RSS を使いました。
+Zenn には、[正式に公開されていない API](https://zenn.dev/manase/scraps/489f556f7ff15b) があります。`https://zenn.dev/api/**`を叩くと記事などを取得できますが、公式のドキュメントがなく、バージョンが変わってしまうと使えなくなってしまうことやフィードリーダーなどで RSS の方が多く叩かれている気がするので、RSS を使いました。（Zenn にも迷惑をかけないためにも）
 
 # システム構成
 
