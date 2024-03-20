@@ -6,19 +6,22 @@ topics: ['zenn', 'hono', 'cloudflare', 'chrome拡張']
 published: true
 ---
 
-:::message
-非公式の拡張機能です。
-:::
-
 https://chromewebstore.google.com/detail/cclhgjnllleppaplaonmpdmdgngnodjf
 
 ![](https://storage.googleapis.com/zenn-user-upload/708b723f32c0-20240319.png)
 
 ![](https://storage.googleapis.com/zenn-user-upload/d73f108eedf2-20240319.png)
 
+:::message
+非公式の拡張機能です。
+:::
+
 # 概要
 
-Zenn で過去にトレンドになったテック記事、アイデア記事、本を表示する拡張機能です。[ここ](https://chromewebstore.google.com/detail/cclhgjnllleppaplaonmpdmdgngnodjf)からインストールできます。2024/03/07 からの[Zenn の RSS](https://zenn.dev/feed)で取得できるデータをランダムで表示します。正確には、今日のトレンド以外からランダムで 12 個選択します。
+Zenn で過去にトレンドになったテック記事、アイデア記事、本を表示する Chrome 拡張機能です。[ここ](https://chromewebstore.google.com/detail/cclhgjnllleppaplaonmpdmdgngnodjf)からインストールできます。2024/03/07 からの[Zenn の RSS](https://zenn.dev/feed)で取得できるデータをランダムで表示します。正確には、今日のトレンド以外からランダムで 12 個選択します。
+
+Zenn のルートページの Featured の下に表示されます。
+気になった方は、インストールしてみてください！
 
 ## RSS を使った理由
 
