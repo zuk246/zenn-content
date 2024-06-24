@@ -120,6 +120,8 @@ https://zenn.dev/ryo_kawamata/articles/2f0b96f8eb5179
 
 ここまで読んでいただきありがとうございました！
 
+https://bsky.app/profile/zuk246.net
+
 https://marketplace.visualstudio.com/items?itemName=zuk246.blueriver
 
 
